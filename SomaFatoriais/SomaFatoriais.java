@@ -35,7 +35,6 @@ public class SomaFatoriais {
 }
 
 /*
- * Tech Fellow 2024 Q2
  * Soma de fatoriais
  * Dado um número inteiro N (1 ≤ N ≤ 10) e N números F (0 ≤ F ≤ 10), determine a
  * soma do fatorial desses N números.

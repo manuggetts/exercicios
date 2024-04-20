@@ -18,8 +18,7 @@ def main():
 if __name__ == "__main__":
     main();
 
-''' Tech Fellow 2024 Q2
-Soma de fatoriais
+''' Soma de fatoriais
 Dado um número inteiro N (1 ≤ N ≤ 10) e N números F (0 ≤ F ≤ 10), determine a
 soma do fatorial desses N números.
  
