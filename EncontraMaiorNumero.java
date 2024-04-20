@@ -9,7 +9,7 @@ public class EncontraMaiorNumero {
         // percorrendo a lista pra encontrar o numero maior
         for (int i = 1; i < lista.length; i++) {
             if (lista[i] > maior) {
-                maior = lista[i]
+                maior = lista[i];
             }
         }
         System.out.println("O maior número é:" + maior);
