@@ -55,4 +55,7 @@ public class EncontraMaiorNumero {
  * Isso verifica se o número atual (na posição i da lista) é maior que o valor
  * atual de "maior"
  * Se for, atualiza o valor de maior para o número atual
+ * 
+ * Após percorrer todos os elementos da lista,
+ * o valor final de "maior" é o maior número encontrado
  */
