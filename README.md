@@ -1,6 +1,6 @@
-# Exercícios de lógica de programação 📝
+# Exercícios de lógica de programação em Java e Python 🎯📚
 
-## EncontraMaiorNumero
+## EncontraMaiorNumero 📙
 <p>Encontra o maior número em uma array utilizando o loop for</p>
 
 - Entrada: Uma lista de números inteiros.
@@ -14,7 +14,7 @@ Suponha que a lista (array) seja: [10, 5, 8, 15, 3].
 
 ---
 
-## SomaFatoriais
+## SomaFatoriais 📘
 <p>Calcula a soma dos fatoriais dos números fornecidos pelo usuário</p>
 
 *Dado um número inteiro positivo N, o programa lê N números inteiros do usuário. Em seguida, calcula o fatorial de cada número e soma esses fatoriais. O resultado final é a soma total dos fatoriais.*
