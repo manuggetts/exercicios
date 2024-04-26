@@ -32,7 +32,7 @@ A soma dos fatoriais é 6 + 24 + 120 = 150.
 
 ---
 
-## A+B!=C
+## A+B!=C 📕
 
 <p>Faça um algoritmo que leia os valores de A, B, C e em seguida imprima na tela a soma entre A e B e mostre se a soma é menor que C.</p>
 
