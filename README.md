@@ -31,3 +31,27 @@ Suponha que o usuário insira os seguintes números: 3, 4, 5.
 A soma dos fatoriais é 6 + 24 + 120 = 150.
 
 ---
+
+## A+B!=C
+
+<p>Faça um algoritmo que leia os valores de A, B, C e em seguida imprima na tela a soma entre A e B e mostre se a soma é menor que C.</p>
+
+1. Entrada
+- A: Valor do primeiro número.
+- B: Valor do segundo número.
+- C: Valor do terceiro número.
+
+2. Saída
+- Se a soma de A e B for menor que C, imprime: “A soma de A e B é menor que C.”
+- Caso contrário, imprime: “A soma de A e B não é menor que C.”
+
+### Exemplo
+Suponha que os valores inseridos sejam:
+
+A = 5
+B = 8
+C = 15
+
+A soma de A e B é 13, que é menor que C. Portanto, a saída será:
+
+A soma de A e B é menor que C.
