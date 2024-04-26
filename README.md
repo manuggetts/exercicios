@@ -1,4 +1,4 @@
-# Exercícios de lógica de programação em Java e Python 🎯📚
+# Exercícios de lógica de programação 🎯📚
 
 ## EncontraMaiorNumero 📙
 <p>Encontra o maior número em uma array utilizando o loop for</p>
