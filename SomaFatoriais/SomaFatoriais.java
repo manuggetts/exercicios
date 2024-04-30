@@ -31,6 +31,8 @@ public class SomaFatoriais {
         }
 
         System.out.println("A soma dos fatoriais é: " + somaFatoriais);
+
+        scanner.close();
     }
 }
 

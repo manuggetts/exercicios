@@ -55,3 +55,23 @@ C = 15
 A soma de A e B é 13, que é menor que C. Portanto, a saída será:
 
 A soma de A e B é menor que C.
+
+## ParOuImpar 📗
+
+<p>Faça um algoritmo para receber um número qualquer e imprimir na tela se o número é par ou ímpar, positivo ou negativo.</p>
+
+1. Entrada
+- Um número inteiro.
+
+2. Saída
+- Se o número é par ou ímpar.
+- Se o número é positivo ou negativo.
+
+### Exemplo
+Suponha que o número inserido seja:
+
+Número = 5
+
+O número 5 é ímpar e é positivo. Portanto, a saída será:
+
+O número 5 é ímpar e é positivo.
