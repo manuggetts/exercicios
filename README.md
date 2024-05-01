@@ -146,3 +146,22 @@ A saída será:
 Informações validadas com sucesso!
 
 ---
+
+## Populacional 📙
+
+<p>Escreva um programa que solicite ao usuário e valide as seguintes informações:</p>
+
+1.Entrada
+- População inicial do país A.
+- Taxa de crescimento do país A.
+- População inicial do país B.
+- Taxa de crescimento do país B.
+
+2. Saída
+- Número de anos necessários para que a população do país A ultrapasse ou iguale a população do país B.
+
+### Exemplo
+
+O programa solicitará ao usuário as informações necessárias e calculará o número de anos necessários para que a população do país A ultrapasse ou iguale a população do país B. A saída será:
+
+São necessários X anos para que a população do país A ultrapasse ou iguale a população do país B.
