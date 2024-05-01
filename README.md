@@ -79,3 +79,34 @@ O número 5 é ímpar e é positivo. Portanto, a saída será:
 O número 5 é ímpar e é positivo.
 
 ---
+
+## usuarioEsenha 📘
+
+<p>Escreva um programa que leia um nome de usuário e uma senha. O programa não deve aceitar a senha igual ao nome do usuário, mostrando uma mensagem de erro e voltando a pedir as informações.</p>
+
+1. Entrada
+- Nome de usuário.
+- Senha.
+
+2. Saída
+- Mensagem de erro se a senha for igual ao nome de usuário.
+- Mensagem de sucesso se a senha e o nome de usuário forem diferentes.
+
+### Exemplo
+Suponha que as informações inseridas sejam:
+
+Nome de usuário = user / Senha = user
+
+A saída será:
+
+Erro: A senha não pode ser igual ao nome do usuário. Por favor, tente novamente.
+
+Se as informações inseridas forem:
+
+Nome de usuário = user Senha = password
+
+A saída será:
+
+Usuário e senha aceitos!
+
+---
