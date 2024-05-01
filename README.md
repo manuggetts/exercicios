@@ -110,3 +110,39 @@ A saída será:
 Usuário e senha aceitos!
 
 ---
+
+## Valid_Infos 📗
+
+<p>Escreva um programa que leia e valide as seguintes informações do usuário:</p>
+
+1. Nome: maior que 3 caracteres;
+2. Idade: entre 0 e 150;
+3. Salário: maior que zero;
+4. Sexo: ‘f’ ou ‘m’;
+5. Estado Civil: ‘s’, ‘c’, ‘v’, ‘d’;
+
+<p>Se as informações não estiverem de acordo com as regras acima, o programa deve mostrar uma mensagem de erro e pedir as informações novamente.</p>
+
+### Exemplo
+
+Suponha que as informações inseridas sejam:
+
+*Nome* = Jo *Idade* = 151 *Salário* = 0 *Sexo* = g *Estado Civil* = x
+
+A saída será:
+
+Erro: O nome deve ter mais de 3 caracteres.
+Erro: A idade deve estar entre 0 e 150.
+Erro: O salário deve ser maior que zero.
+Erro: O sexo deve ser ‘f’ ou ‘m’.
+Erro: O estado civil deve ser ‘s’, ‘c’, ‘v’ ou ‘d’.
+
+Se as informações inseridas forem:
+
+*Nome* = João *Idade* = 30 *Salário* = 3000 *Sexo* = m *Estado Civil* = s
+
+A saída será:
+
+Informações validadas com sucesso!
+
+---
